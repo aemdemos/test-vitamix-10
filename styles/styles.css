@@ -17,8 +17,8 @@
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-  --body-font-family: gotham-narrow-ssm-a, gotham-narrow-ssm-a-fallback, gotham-narrow-ssm-b, gotham-narrow-ssm-b-fallback, helvetica, sans-serif;
-  --heading-font-family: sentinel-a, sentinel-a-fallback, sentinel-b, sentinel-b-fallback, georgia, serif;
+  --body-font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", "Gotham Narrow SSm A Fallback", "Gotham Narrow SSm B Fallback", "Helvetica", "sans-serif";
+  --heading-font-family: "Sentinel A", "Sentinel B", "Sentinel A Fallback", "Sentinel B Fallback", "Georgia", "serif";
   --body-font-size-m: 22px;
   --body-font-size-s: 19px;
   --body-font-size-xs: 17px;
@@ -33,7 +33,7 @@
 
 /* fallback fonts */
 @font-face {
-  font-family:gotham-narrow-ssm-a-fallback;
+  font-family:"Gotham Narrow SSm A Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
@@ -44,7 +44,7 @@
 }
 
 @font-face {
-  font-family:gotham-narrow-ssm-a-fallback;
+  font-family:"Gotham Narrow SSm A Fallback";
   font-style:normal;
   font-weight:500;
   src:local("Arial");
@@ -55,7 +55,7 @@
 }
 
 @font-face {
-  font-family:sentinel-a-fallback;
+  font-family:"Sentinel A Fallback";
   font-style:normal;
   font-weight:300;
   src:local("Arial");
@@ -66,7 +66,7 @@
 }
 
 @font-face {
-  font-family:sentinel-a-fallback;
+  font-family:"Sentinel A Fallback";
   font-style:normal;
   font-weight:500;
   src:local("Arial");
@@ -77,7 +77,7 @@
 }
 
 @font-face {
-  font-family:gotham-narrow-ssm-b-fallback;
+  font-family:"Gotham Narrow SSm B Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
@@ -88,7 +88,7 @@
 }
 
 @font-face {
-  font-family:gotham-narrow-ssm-b-fallback;
+  font-family:"Gotham Narrow SSm B Fallback";
   font-style:normal;
   font-weight:500;
   src:local("Arial");
@@ -99,7 +99,7 @@
 }
 
 @font-face {
-  font-family:sentinel-b-fallback;
+  font-family:"Sentinel B Fallback";
   font-style:normal;
   font-weight:300;
   src:local("Arial");
@@ -110,7 +110,7 @@
 }
 
 @font-face {
-  font-family:sentinel-b-fallback;
+  font-family:"Sentinel B Fallback";
   font-style:normal;
   font-weight:500;
   src:local("Arial");

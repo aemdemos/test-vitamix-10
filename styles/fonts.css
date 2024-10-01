@@ -1,6 +1,6 @@
 
 @font-face {
-  font-family: gotham-narrow-ssm-a;
+  font-family: "Gotham Narrow SSm A";
   src: url('../fonts/gotham-narrow-ssm-a-400-normal.woff') format('woff');
   font-weight: 400;
   font-style: normal;
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: gotham-narrow-ssm-a;
+  font-family: "Gotham Narrow SSm A";
   src: url('../fonts/gotham-narrow-ssm-a-500-normal.woff') format('woff');
   font-weight: 500;
   font-style: normal;
@@ -18,7 +18,7 @@
 }
 
 @font-face {
-  font-family: sentinel-a;
+  font-family: "Sentinel A";
   src: url('../fonts/sentinel-a-300-normal.woff') format('woff');
   font-weight: 300;
   font-style: normal;
@@ -27,7 +27,7 @@
 }
 
 @font-face {
-  font-family: sentinel-a;
+  font-family: "Sentinel A";
   src: url('../fonts/sentinel-a-500-normal.woff') format('woff');
   font-weight: 500;
   font-style: normal;
@@ -36,7 +36,7 @@
 }
 
 @font-face {
-  font-family: gotham-narrow-ssm-b;
+  font-family: "Gotham Narrow SSm B";
   src: url('../fonts/gotham-narrow-ssm-b-400-normal.woff') format('woff');
   font-weight: 400;
   font-style: normal;
@@ -45,7 +45,7 @@
 }
 
 @font-face {
-  font-family: gotham-narrow-ssm-b;
+  font-family: "Gotham Narrow SSm B";
   src: url('../fonts/gotham-narrow-ssm-b-500-normal.woff') format('woff');
   font-weight: 500;
   font-style: normal;
@@ -54,7 +54,7 @@
 }
 
 @font-face {
-  font-family: sentinel-b;
+  font-family: "Sentinel B";
   src: url('../fonts/sentinel-b-300-normal.woff') format('woff');
   font-weight: 300;
   font-style: normal;
@@ -63,7 +63,7 @@
 }
 
 @font-face {
-  font-family: sentinel-b;
+  font-family: "Sentinel B";
   src: url('../fonts/sentinel-b-500-normal.woff') format('woff');
   font-weight: 500;
   font-style: normal;
